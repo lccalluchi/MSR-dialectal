@@ -1,7 +1,6 @@
 # Dialectal Robustness in Spanish-to-English Speech Translation
 ### Cascade vs. End-to-End Architectures Across Latin American Varieties
 
-**Authors:** Berly Diaz-Castro, Roxana Flores-Quispe  
 **Institution:** Universidad Nacional de San Agustín (UNSA), Arequipa, Perú  
 **Target venue:** Computer Speech & Language (Q1, Elsevier)
 
