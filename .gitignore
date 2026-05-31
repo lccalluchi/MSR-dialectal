@@ -1,0 +1,36 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Datos locales (se guardan en Google Drive)
+*.csv
+*.tsv
+*.json
+data/
+output/
+
+# Archivos de Claude Code (internos)
+.claude/
+memory/
+CLAUDE.md
+Claude.md
+
+# Entornos
+.env
+*.env
+venv/
+.venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Modelos descargados localmente
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+
+# PDFs grandes (opcional — comenta esta línea si quieres subir los PDFs)
+# Paper original/*.pdf
